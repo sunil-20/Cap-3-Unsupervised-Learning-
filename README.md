@@ -27,4 +27,13 @@ The sample Data summarizes the usage behavior of 8950 credit card holders. Data 
 <strong>TENURE</strong> : Tenure of credit card service for user<br>
 
 <strong> Clustering algorithms used:</strong>
-<ol> a</ol>
+ <ol type = "1">
+         <li>India</li>
+         <li>Australia</li>
+         <li>South Africa</li>
+         <li>New Zealand</li>
+         <li>Pakistan</li>
+         <li>Srilanka</li>
+         <li>West Indies</li>
+         <li>Bangladesh</li>
+      </ol>
