@@ -28,12 +28,8 @@ The sample Data summarizes the usage behavior of 8950 credit card holders. Data 
 
 <strong> Clustering algorithms used:</strong>
  <ol type = "1">
-         <li>India</li>
-         <li>Australia</li>
-         <li>South Africa</li>
-         <li>New Zealand</li>
-         <li>Pakistan</li>
-         <li>Srilanka</li>
-         <li>West Indies</li>
-         <li>Bangladesh</li>
+         <li>K-Means clustering</li>
+         <li>DBSCAN clustering</li>
+         <li>Gaussian mixture clustering</li>
+        
       </ol>
