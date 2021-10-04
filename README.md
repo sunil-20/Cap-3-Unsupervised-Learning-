@@ -5,23 +5,23 @@ On this background, the goal of this project is to identifying and evaluation of
 The sample Data summarizes the usage behavior of 8950 credit card holders. Data consists of 18 features accomodating six months of credit card usage. Data Source https://www.kaggle.com/arjunbhasin2013/ccdata 
 
 
-Following is the Data Dictionary for Credit Card dataset :-
+**Following is the Data Dictionary for Credit Card dataset :-**
 
-CUSTID : Identification of Credit Card holder (Categorical)
-BALANCE : Balance amount left in their account to make purchases
-BALANCEFREQUENCY : How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
-PURCHASES : Amount of purchases made from account
-ONEOFFPURCHASES : Maximum purchase amount done in one-go
-INSTALLMENTSPURCHASES : Amount of purchase done in installment
-CASHADVANCE : Cash in advance given by the user
-PURCHASESFREQUENCY : How frequently the Purchases are being made, score between 0 and 1 (1 = frequently purchased, 0 = not frequently purchased)
-ONEOFFPURCHASESFREQUENCY : How frequently Purchases are happening in one-go (1 = frequently purchased, 0 = not frequently purchased)
-PURCHASESINSTALLMENTSFREQUENCY : How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)
-CASHADVANCEFREQUENCY : How frequently the cash in advance being paid
-CASHADVANCETRX : Number of Transactions made with "Cash in Advanced"
-PURCHASESTRX : Numbe of purchase transactions made
-CREDITLIMIT : Limit of Credit Card for user
-PAYMENTS : Amount of Payment done by user
-MINIMUM_PAYMENTS : Minimum amount of payments made by user
-PRCFULLPAYMENT : Percent of full payment paid by user
-TENURE : Tenure of credit card service for user
+<strong>CUSTID</strong> : Identification of Credit Card holder (Categorical)<br>
+<strong>BALANCE</strong> : Balance amount left in their account to make purchases<br>
+<strong>BALANCEFREQUENCY</strong> : How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)<br>
+<strong>PURCHASES</strong> : Amount of purchases made from account<br>
+<strong>ONEOFFPURCHASES</strong> : Maximum purchase amount done in one-go<br>
+<strong>INSTALLMENTSPURCHASES</strong> : Amount of purchase done in installment<br>
+<strong>CASHADVANCE</strong> : Cash in advance given by the user<br>
+<strong>PURCHASESFREQUENCY</strong> : How frequently the Purchases are being made, score between 0 and 1 (1 = frequently purchased, 0 = not frequently purchased)<br>
+<strong>ONEOFFPURCHASESFREQUENCY</strong> : How frequently Purchases are happening in one-go (1 = frequently purchased, 0 = not frequently purchased)<br>
+<strong>PURCHASESINSTALLMENTSFREQUENCY</strong> : How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)<br>
+<strong>CASHADVANCEFREQUENCY</strong> : How frequently the cash in advance being paid<br>
+<strong>CASHADVANCETRX</strong> : Number of Transactions made with "Cash in Advanced"<br>
+<strong>PURCHASESTRX</strong> : Numbe of purchase transactions made<br>
+<strong>CREDITLIMIT</strong> : Limit of Credit Card for user<br>
+<strong>PAYMENTS</strong> : Amount of Payment done by user<br>
+<strong>MINIMUM_PAYMENTS</strong> : Minimum amount of payments made by user<br>
+<strong>PRCFULLPAYMENT</strong> : Percent of full payment paid by user<br>
+<strong>TENURE</strong> : Tenure of credit card service for user<br>
