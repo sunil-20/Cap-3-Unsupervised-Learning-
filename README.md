@@ -25,3 +25,6 @@ The sample Data summarizes the usage behavior of 8950 credit card holders. Data 
 <strong>MINIMUM_PAYMENTS</strong> : Minimum amount of payments made by user<br>
 <strong>PRCFULLPAYMENT</strong> : Percent of full payment paid by user<br>
 <strong>TENURE</strong> : Tenure of credit card service for user<br>
+
+<strong> Clustering algorithms used:</strong>
+<ul> a</ul>
