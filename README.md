@@ -31,5 +31,4 @@ The sample Data summarizes the usage behavior of 8950 credit card holders. Data 
          <li>K-Means clustering</li>
          <li>DBSCAN clustering</li>
          <li>Gaussian mixture clustering</li>
-        
-      </ol>
+              </ol>
