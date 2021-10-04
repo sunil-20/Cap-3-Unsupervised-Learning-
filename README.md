@@ -27,4 +27,4 @@ The sample Data summarizes the usage behavior of 8950 credit card holders. Data 
 <strong>TENURE</strong> : Tenure of credit card service for user<br>
 
 <strong> Clustering algorithms used:</strong>
-<ul> a</ul>
+<ol> a</ol>
